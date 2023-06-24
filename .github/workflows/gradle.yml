@@ -24,4 +24,3 @@ jobs:
       with:
         name: shipmonk
         path: build/libs
-    - uses: actions/upload-artifact@v3
